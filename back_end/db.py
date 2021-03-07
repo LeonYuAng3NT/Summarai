@@ -16,4 +16,13 @@ def db_authentication():
     result = firebase.get('/users', None, {'print':'pretty'})
     
 
+def update_user_info(user_name,summary_title):
+      firebase = firebase.firebaseApplication('https://summarai-c2de0-default-rtdb.firebaseio.com/', None)
+      firebase.put(user_name, summary_title)
+      print('Update user ' + user_name + 'with the value of' + summary_title)
 
+def get_user_info(user_name, summary_title):
+      firebase = firebase.firebaseApplication('https://summarai-c2de0-default-rtdb.firebaseio.com/', None)
+      value = firebase.get(user_name)
+      print('Retrieve user ' + user_name + 'with the value of' + summary_title)
+      return value
