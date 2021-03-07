@@ -97,7 +97,7 @@ def rel_change(a, b):
    print(x)
    return x
 
-def keyframs_time(videopath, dir):
+def keyframes_time(videopath, dir):
     #smoothing window size
     print("target video :" + videopath)
     print("frame save directory: " + dir)

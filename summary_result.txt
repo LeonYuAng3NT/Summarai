@@ -1,0 +1,495 @@
+0
+ good management accounting is a
+competitive tool because management accounting is a competitive tool the
+practice of management accounting involves innovation experimentation
+diversity success since sometimes failure as businesses tinker with their
+management accounting systems remember that a good business is always
+reexamining its internal information system to see whether it can coax any
+better data out of the system as a result there are best practices in
+management accounting which you will learn in the succeeding topics the only
+reason a company uses management accounting is to satisfy a competitive
+need and competitive need often dictates that one organization's management
+accounting system will not look like another's managers are always making
+choices using the available management
+1
+ the service be delivered the three
+management functions of planning controlling and evaluating generally
+follow a natural order at least in theory in practice managers are often
+expected to work with processes customers and employees requiring all
+three decision-making functions at once planning controlling and evaluating are
+often part of the everyday duties of managers our objective here is to add a
+little structure to that everyday analysis you management planning involves
+of recognizing problems or opportunities identifying alternatives analyzing those
+alternatives and then choosing and implementing the best alternatives there
+are two basic types of planning first long-run planning which includes
+strategic planning and capital budgeting and second short-run planning which
+includes production and process prioritizing and operational budgeting
+or profit planning long-run planning involves making decisions with effects
+that extends several years into the future usually three to five years but
+sometimes longer than that this includes broad-based decisions about products
+markets productive facilities and financial resources long run planning is
+often called strategic planning strategic planning likely the most
+critical decision-making process that takes place at the executive level in
+any organization today usually involves identifying an organization's mission
+the goals flowing from that mission and strategies and action steps to
+accomplish those goals successful executives such as William Weldon of
+Johnson & Johnson or Warren Buffett of Berkshire Hathaway have always displayed
+great skill and studying the market identifying customer needs analyzing
+competitors strengths and weaknesses and defining the right investments in
+processes their organizations need for success good management accounting
+supports good strategic planning by providing the internal information
+needed by executives to evaluate and adjust their strategic plans with
+strategic planning in place or in process the company can then plan for
+the purchase and use of major assets like building their equipment to help
+the company meet its long-range goals for example if a University's long-run
+strategic plan includes making its football team more competitive the
+university should consider improving or replacing its existing football stadium
+and practice facility this type of long-run planning of the acquisition of
+assets is called capital budgeting short-run planning is divided into two
+categories production prioritizing and operational budgeting once the
+organization has made long-term resource commitments that is
+land building equipment management personnel and the like
+then managers need to determine how to best use those committed resources to
+maximize the return on their capital investment a process often referred to
+as production prioritizing now did you catch the phrase return on capital
+investment in the last sentence that sound familiar the DuPont ROI concept is
+one way to establish priorities on products service processes or divisions
+that make the largest contributions to the goals of the organization
+once the organization has determined what to provide to the marketplace in
+order to maximize its goals then managers are ready to go on to the next
+phase of short-run planning operational budgeting sometimes known as profit
+plans operational budgets are used by managers to establish and communicate
+daily weekly and monthly goals also known as standards for the organization
+many individuals face severe personal financial problems because they fail to
+use even the most basic techniques of regular operational budgeting
+2
+ managerial accounting involves
+collecting and using information relating the planning controlling and
+evaluating planning involves looking into the future
+controlling involves managing the present and evaluating relates to
+looking to the past controlling involves a process of tracking actual performance
+these data are then used in the evaluating process to compare against
+the budgets and measure deviations from the goals or standards deviations from
+standards are called variances controlling also involves the real-time
+day-to-day management of all of a company's business processes a good
+example of a control device is the radar gun used by major league baseball teams
+to measure the speed of the pitcher is throwing his pitches these measurements
+can be used at the end of the season in evaluating which pitchers are most
+valuable to the team but they can also be used by the manager during the course
+of a game to indicate when a pitcher is getting tired and should be replaced the
+radar gun measurements are useful for evaluating individual performance after
+the fact but are also useful in effectively managing the team during the
+game evaluating involves analyzing results providing feedback to managers
+and other employees rewarding performance and identifying problems
+evaluating is typically a process of comparing actual performance against
+expected inputs of costs outputs of quality and timelines this comparison
+typically results in variances that tell management how well the organization is
+achieving its plans if performance is in accordance with the plan the variances
+signal that operations are in control and no unusual management action is
+necessary if performance is substantially different from the plan
+management needs to decide how to alter operations in order to improve future
+performance for example most students in college classes are asked to evaluate
+their instructors near the end of the term these evaluation results can be
+used by conscientious faculty members trying to improve their teaching and
+also used by the Cartman heads in deciding which teachers
+should be retained or replaced now the third function in the management
+process evaluating brings us back to the point where we started planning the
+information gained through the evaluating function is used for planning
+for the following period remember that as managers evaluate performance in the
+last period they may also be making planning decisions to improve operations
+for the next period while gathering and
+3
+ you this chapter introduces
+cost-volume-profit analysis also called CVP analysis which is a management tool
+primarily used in the planning process the basic objective of CVP analysis is
+determining how a company's sales impact profits you will often hear CVP analysis
+referred to as breakeven analysis for example before opening a new Thai
+restaurant the would-be restaurateur should calculate how many customers a
+day on average must be served in order to pay the rent and generate a
+reasonable profit if the necessary number of customers to break-even
+seems unreasonably high the business plan must be revised or abandoned now
+this sounds like an obvious planning exercise but too many small business
+owners neglect doing even this basic analysis to use CVP analysis
+successfully a manager must categorize cost is either fixed or variable the
+concept of fixed and variable costs is fairly simple total variable cost change
+in direct proportion to changes in some particular activity levels such as
+production or sales volume one example of a variable cost is the cost of
+materials such as bags of rice used in a Thai restaurant which vary
+proportionally with the number of units produced sales commissions which vary
+proportionally with sales volume are also an example of a variable cost
+another way to think of a variable cost is that the cost is a set amount per
+unit $10 per meal or $12,000 per cart or $20 per book the more meals or cars or
+books that are sold the higher the total variable cost
+in contrast fixed costs remain constant in total regardless of activity level at
+least over a certain range of activity examples of fixed costs are rent
+insurance equipment depreciation and supervisor salaries regardless of
+changes in sales or production output these costs typically remain constant
+using the Thai restaurant example the rent on the restaurant location is a
+fixed cost because no matter how many customers are attracted to the
+restaurant during the month the monthly rent is typically still the same amount
+obviously to be successful a business must first be able to pay for all its
+costs however a good understanding of variable and fixed costs provides the
+organization with a clear view of how it can make a profit using CVP analysis the
+basic CVP concept is that the difference or margin between sales and variable
+costs must first be used to cover fixed costs once the organization achieves
+that break-even point then the remaining margin becomes profit for example if the
+average variable cost to create a meal at a restaurant is $10 and the average
+price of a meal is $16 then each meal on average contributes 6 dollars to cover
+the fixed costs of running the restaurant if monthly fixed costs such
+as rent insurance and so forth at the restaurant are nine thousand dollars
+then the owner needs to sell 1500 meals that's nine thousand dollars divided by
+six dollars each month in order to break even
+4
+ contribution margin calculations are
+very useful when analyzing cost-volume-profit relationships in the
+management planning process doing CVP analysis using contribution margin
+calculations is a straightforward process though it does require some
+simple algebra we begin this topic with the assumption that all cost can be
+described as either fixed or variable to highlight the important idea that CVP
+analysis depends on dividing costs and the fixed and variable behavior patterns
+we will develop the CVP equation as follows first because all cost can be
+classified as either variable or fixed we can express the calculation of profit
+with the following basic formula sales revenues less variable costs less fixed
+costs equals our profit and second we can specify the formula more precisely
+by expressing the equation in units that is our sales price times the number of
+units less our variable costs times the number of units less our fixed costs
+equals profit this equation is a quick and useful method for examining the
+financial aspects of CVP analysis problems CVP analysis using this
+equation is basic math you merely insert the known elements into the formula and
+solve for the one unknown element you in many cases as a manager you'll want
+to know how many units need to be sold to break-even the break-even point is
+defined as the volume of activity at which total revenues equal total costs
+or in other words where profit is zero the break-even point may also be thought
+of as the volume of activity at which the contribution margin equals the fixed
+costs although the goal of business planning is to make a profit not just to
+break even knowing the break-even point can be useful in assessing the risk of
+selling a new product setting sales goals and commission rates deciding on
+marketing and advertising strategies and making other similar operating decisions
+because the break-even point is by definition that activity level at which
+no profit or loss is earned the basic CVP equation can be modified to
+calculate the break-even point as follows all that you need to do to
+compute the breakeven point is simply set income equal to zero and then solve
+for the unknown such as the number of units to be sold or the total revenues
+to be achieved once you understand the basic CVP formula you just set it up and
+solve for whatever unknown you're interested in planning another way we
+can use CVP analysis in the planning process is to determine what level of
+activity is necessary to reach a target level of income instead of setting
+profit at zero to do a break-even analysis we can just as easily set
+income in the formula at the targeted level and then use the formula to plan
+or predict what fixed cost variable cost sales price and sales volume are needed
+to achieve the target level of income target income is usually defined as the
+amount of income that will enable management to reach its objectives
+paying dividends meeting analysts predictions purchasing a new plant and
+equipment or paying off existing loans target income can be expressed as either
+a percentage of revenue or as a fixed amount the power of the CVP equation
+lies in understanding the relationship between sales variable costs and fixed
+costs once we quantify those relationships we can do some pretty
+simple analysis that yields some pretty powerful results you the foundation of management accounting
+is cost control to really understand
+5
+ service and merchandising organizations
+understanding cost flows is a useful way to understand how a business is
+structured or organized without accurate cost information it is difficult to set
+prices evaluate performance reward employees or make production decisions
+it is even difficult to know whether a company should be competing in a
+specific market as we discussed previously costs of manufacturing
+products can be broken down into three elements direct materials direct labor
+and manufacturing overhead to briefly review direct materials include the
+costs of raw materials that are used directly in the manufacture of products
+and are kept in the raw materials warehouse until use direct labor
+includes the wages and other payroll related expenses of factory employees
+who work directly on products manufacturing overhead includes all
+manufacturing costs that are not
+6
+ how an organization works is to follow
+the money in other words observe how costs flow
+through an organization since management accounting systems were originally built
+to support the manufacturing process we'll start there you responsibility accounting is a system in
+which managers are assigned and held accountable for certain costs revenues
+and or assets there are two important behavioral considerations in assigning
+responsibilities to managers first the responsible manager should be involved
+in developing the plan for the unit over which the manager has control current
+research indicates that people are more motivated to achieve a goal if they
+participate in setting it such participation assures that the goals
+will be reasonable and perhaps more importantly that they will be perceived
+to be reasonable by the managers second a manager should be held accountable
+only for those costs revenues or assets over which the manager has substantial
+control some costs may be generated within a segment but control over those
+costs lies outside that unit for example the manager of the venture a
+manufacturing division may be held responsible for labour costs but
+employer wages may be determined by a Union scale controlled elsewhere
+admittedly determining substantial control requires a judgement based on
+circumstances but if all relevant factors are considered careful and fair
+judgments can be made if managers are to be held responsible for the costs
+incurred in their centers they must have control over those costs have
+information relevant to those costs and have a system that focuses on and
+supports effective cost controls traditionally companies have used a
+standard costing system that isolates differences between actual and standard
+or budgeted costs to determine whether costs are too high or too low as well as
+whether costs are improving or getting worse this is critical information if
+the organization expects to be competitive in a standard cost
+management system standard costs are compared to actual costs and variances
+are computed service merchandising and manufacturing firms that use standard
+costing will design their accounting systems to incorporate standard costs
+and variances this type of system called a standard
+cost system is a cost accumulation process based on cost that should be
+incurred rather than cost that were incurred the steps in establishing and
+operating a standard cost system are as follows first standard cost must be
+developed how much material should be used in a product how much should that
+material cost how much labour should be required to assemble the product how
+much should that labor cost answers to these questions requires research and
+analysis but that time is well worth the effort at the end of this first step you
+know how much a product or service should cost you second then is to
+collect the actual costs the accounting system should be designed to gather
+actual cost information you will be able to say how much material was used in a
+product how much that material did cost how much labor was used in assembling a
+product and how much that labor did cost the third step is then to compare the
+actual costs with what you expected those costs to be the result will be
+what accountants call variances the difference between what we expected and
+what was actually incurred analyzing these variances allows you to determine
+the cause of the variance did we use too much labor or material did we pay too
+much for our labor or material this variance analysis is a crucial step in
+using standard costing techniques fourth and finally we are now down to asking
+the important question why we know there is a variance but now we need to
+investigate why was our standard unreasonable did we use labor
+inefficiently we can now ask a host of why questions that will allow us to
+identify is there a problem and what can we do about it these steps describe a
+typical standard cost system you are likely to find an extensive standard
+cost system in most manufacturing firms which usually have standard cost for
+direct materials direct labor and manufacturing overhead however many
+service and merchant firms also use standard cost systems to
+effectively manage critical costs in their organizations
+7
+ a budget is a plan technically it's a
+quantitative expression of a plan of action that shows how someone or
+something will acquire and use resources over a specific period of time the
+budget identifies and allocates resources necessary to effectively and
+efficiently carry out the mission of the organization
+although budgeting may sound to you like an unappealing activity successful
+budgeting is absolutely critical to the success of a business whether we're
+talking about an individual a family or a large organization the overall purpose
+of a budget is to clearly establish a plan so that performance in relation to
+a goal can be carefully monitored thus budgeting has a two-fold purpose the
+first purpose is to allow individuals or companies to develop a plan to meet a
+specified goal the second purpose is to allow ongoing comparison between actual
+results and the plan in order to better control operations or activities
+budgeting is such an important activity that the top executives of most
+companies coordinate and participate in the process now research and experience
+has shown that several behavioral factors determine how successful the
+budgeting process will be first the process must have the support of top
+management second managers and other employees are more motivated to achieve
+budget goals that they understand and help design and third deviations or
+variances from the budget must be addressed by managers in a positive and
+constructive manner a firm-wide operations budget could be prepared by
+top management distributed to the major segments of the firm and then further
+spread out to each lower-level segment manager this is the top-down approach
+sometimes referred to as authoritative budgeting the alternative is the
+bottom-up approach also known as participated budgeting each division
+manager in a bottom-up approach prepares a budget request for his or her segments
+these requests are combined and reviewed as they move their way up the
+organizational hierarchy with adjustments being made to coordinate the
+needs and goals of within the overall organization because
+both top-down and bottom-up approaches are legitimate most organizations use
+some combination of the two the blending of these are two approaches will vary
+among organizations a smaller organization with a few management
+levels will rely more on a top-down approach than with a larger organization
+top management in smaller organizations tends to be more knowledgeable about and
+more involved in the operating details
+8
+ the primary objective of a business is
+to generate a profit for its owners profitable businesses can be based on a
+low-cost strategy like Walmart a customer service strategy like FedEx a
+product branding strategy like coca-cola or a variety of other business
+strategies no matter what a company's underlying strategy is it must make
+long-term investment decisions in buildings equipment information
+technology personnel and so forth capital budgeting is the process of
+determining whether the future benefits stemming from these strategic decisions
+are sufficient to justify the significant upfront associated costs in
+short capital budgeting involves a comparison of the magnitude of upfront
+costs to the magnitude of estimated future multi-year benefits in business
+capital is defined as the total amount of money or other resources owned or
+used by an individual or company to acquire future income or benefits
+thus capital is something to be invested with the expectation that it will be
+recovered along with a profit and capital budgeting is the planning for
+that investment now from a quantitative standpoint the success of the investment
+depends on the amount of net future cash
+9
+ outlays on the investment ignoring the
+time value of money for a moment if a company invests $10,000 and receives
+only $10,000 in the future there's been no profit in other words
+there has been no return on the investment however if $15,000 is
+received in the future the original investment has been preserved and an
+additional return on the investment or profit of $5,000 has been earned other
+things being equal investors obviously wish to receive the greatest
+future benefit for the least investment cost now three aspects of capital
+investment decisions are critical to long-run profitability first a large
+initial outlay decisions to invest in as that's like land buildings and equipment
+usually require large outlays of capital firms making poor decisions involving
+these large assets will struggle to survive
+second the potential long-term impact on earnings long-term investments by
+definition extend over several years thus poor capital budgeting resulting in
+bad investment decisions is likely to have an adverse effect on earnings over
+a longer period and third these decisions are difficult to reverse long
+term investments in land buildings and specialized equipment are much less
+liquid than other investments investments in stocks and bonds for
+example can usually be sold through regularly established markets at almost
+any time it's much more difficult to dispose of capital assets now all
+long-term investment decisions are important the larger the investment
+however the more critical is the need to budget for that expenditure and the
+longer the time period the more difficult it is to assess future
+outcomes and a plan accordingly now following are some typical business
+decisions that can be better understood with capital budgeting techniques should
+a machine that breaks down be repaired or replaced should a pharmaceutical
+company hire a renowned research scientist and commit to supporting this
+scientist and her staff for the next 10 years should a company add to its
+existing manufacturing facility or should have build a new larger factory
+situations like these require careful consideration of many factors
+qualitative as well as quantitative and it is just as important for nonprofit
+organizations to make sound strategic and capital investment decisions as for
+for-profit organizations to do that now the concepts and techniques discussed in
+this topic are applicable to all types of organizations companies governmental
+agencies school districts hospitals municipalities and so forth
+capital budgeting analysis can help by answering two basic questions first
+relating the screening does the investment make sense
+that is doesn't meet a minimum standard of financial acceptability and the
+second relates to ranking is an investment the best among the acceptable
+alternatives you the four most commonly used capital
+budgeting techniques are the payback method the unadjusted rate of return the
+net present value method and the internal rate of return method this
+sequence parallels the pattern of most companies as they grow larger and become
+more sophisticated in the way they make investment decisions that is companies
+generally first use the payback method or the unadjusted rate of return method
+because these techniques are relatively simple both of these techniques however
+have a serious weakness in that they ignore the time value of money as a
+result most companies eventually turn to either the net present value method or
+the internal rate of return method both of which are more theoretically correct
+approaches to capital budgeting the last two techniques are referred to as
+discounted cash flow methods because they use a discount rate in comparing
+the cash flows of investments the payback method is widely used in
+business because it is simple to apply and it provides a preliminary screening
+of investment opportunities it can also be used as a crude measure of a project
+risk basically this method is used to determine the length of time it will
+take the net cash inflows of an investment to equal the initial cash
+outlay the payback period is a particularly important consideration for
+companies in tight cash positions assuming that the payback period is to
+be computed in years actually any time period can be applied and that equal
+cash flows are generated for each period the simple formula for a project's
+payback period is we take the investment cost and we divide it by the annual net
+cash inflows the result will be our payback period to illustrate the payback
+method consider that you are trying to decide to purchase a personal computer
+printer and software for typing and printing essays and term papers for
+students a reasonably good PC printer and appropriate software will cost a
+total of about $1000 let's assume for simplicity's sake that you can borrow
+the thousand dollars from a family member who requires no interest but
+needs to be repaid at the end of 12 months you expect to make
+$125 a month after paying for supplies and other related expenses the payback
+period in months may be computed as follows we take $1,000 our initial
+investment and divide it by our net cash inflows each month of $125 the result is
+8 months because you would generate sufficient cash to recover the
+investment in 8 months you would repay the family member within the agreed upon
+period of time assuming you spend none of the money
+like that's gonna happen this is one of the strengths of the
+payback method it can be used to determine whether an investment fits
+within an acceptable period for the use of the funds the payback method has
+several weaknesses however one is that it measures the time needed to recover
+the initial outlay but does not consider the investments overall profitability
+most investments are made in order to earn an acceptable return not just to
+recover their costs for example you are not solely interested in recovering the
+thousand dollars in the shortest time possible your purpose in buying the
+equipment is to earn some extra money assuming that the equipment will ask for
+more than eight months you not only will recover your initial investment but you
+will also generate subsequent earnings at at least $125 a month
+although the payback method may provide some clues about the advisability or
+risks of investment it does not directly measure profitability the other major
+weakness of the payback method it does not take into account the time value of
+money
+10
+ two widely used capital budgeting
+techniques recognize the time value of money the net present value method and
+the internal rate of return method both methods applied discounted cash flow
+principles in determining the acceptability of an investment the net
+present value method uses a standard discount rate that is the hurdle rate to
+restate all cash flows in terms of present values and then makes
+comparisons in choosing a discount rate a company's cost of capital as well as
+the riskiness of a project should be considered if the company were
+considering a very high-risk project a higher discount rate would be used
+because high-risk projects must yield higher than average returns in order to
+compensate for the increased probability of low or negative returns the selection
+of the right discount rate is critical in the execution of a useful capital
+budgeting analysis the net present value method compares all expected cash
+inflows associated with an investment with the current and future cash
+outflows all cash flows are discounted to their present values giving
+recognition to the time value of money for this reason the net present value
+method is superior to both the payback method and the unadjusted rate of return
+method in general the net present value method involves the following five steps
+1 estimate the amount and timing of all cash flows associated with the
+investment to evaluate the riskiness of the cash flows in order to determine the
+appropriate discount rate to be used in your present value calculations 3
+compute the present values of all the expected cash inflows and outflows of
+the investment 4 subtract the total present value of the cash outflows from
+the total present value of the cash inflows the difference is the
+investments net present value and 5 decide whether they undertake the
+investment if the net present value of the investment is positive or at least 0
+the project is acceptable from a financial standpoint now steps 1 and 2
+are the most difficult steps in evaluating a
+long-term investment these steps are our business judgment experience and careful
+analysis of details separate managers that make good long-term investment
+decisions from those who make bad ones steps three through five require
+familiarity with present value concepts and computations those concepts and
+computations are well beyond the scope of this course but they are not well
+beyond your grasp suffice it to say that the net present value method recognizes
+the time value of money and factors that into the calculations in determining if
+a project is worth undertaking or not
+11
+ the internal rate of return method also
+known as the time adjusted rate of return method or the discounted rate of
+return method is similar to the net present value approach in that it
+emphasizes the profitability of investments and takes into account the
+time value of money as a discounted cash flow method it is superior to either the
+payback method or the unadjusted rate of return method some managers consider the
+internal rate of return meth and more difficult than present value method
+because the computations can be challenging other managers however
+prefer to analyze investment alternatives in terms of comparative
+rates of return rather than net present values the internal rate of return is
+defined as the true discount rate that an investment yields mathematically the
+internal rate of return is the discount rate that yields a net present value of
+$0 when applied to the cash flows into an investment both inflows and outflows
+to determine the value of an investment management must compare the project's
+internal rate of return with the company's usual discount rate often
+called the hurdle rate or the rate that must be cleared for a project to be
+acceptable if the internal rate of return is higher than or equal to the
+company's hurdle rate the project is acceptable if the internal rate of
+return is lower than the hurdle rate the project is usually rejected as with any
+of the capital budgeting techniques even if the investment is acceptable from an
+internal rate of return standpoint qualitative factors must still be
+considered before a final decision can be made
+12
+in explaining the fundamental concepts
+of capital budgeting we have focused onthe numbers however a discussion of
+capital budgeting is incomplete withoutmentioning factors that cannot be
+reduced to numbers sometimes qualitativefactors can override quantitative
+analysis in strategic and capitalinvestment decisions here we'll consider
+3 types of qualitative factors andinvestments effect on the quality of
+products and services offered andinvestments effect on the time with
+which products and services can beproduced and delivered to customers and
+other qualitative factors so far we'vemade the determination of whether a
+capital investment decision is a goodone based solely on the financial return
+computed using one of four methods ifthe financial return was positive our
+conclusion was to invest if thefinancial return was negative we
+recommended that the project not beundertaken
+however organizations must carefullymanage and balance decisions across
+three important aspects ofdecision-making cost quality and time
+quality and time considerations cansometimes dictate that a capital
+investment should be main even if thefinancial returns don't justify the
+expenditure for example if buying a newmachine will help the company produce
+higher quality products or deliver thoseproducts to its customers faster the
+machine may be a good investment theimpact of quality and time on capital
+budgeting decisions must not beunderestimated in addition to quality
+and time there are a number of otherqualitative factors that must be
+considered when making capital budgetingdecisions these factors include such
+things as government regulationspollution control and Environmental
+Protection worker safety and thepreferences of owners and management
+many more examples could be mentionedbut the point is that numbers alone do
+not control the investment decisions ofa good manager quality time and other
+qualitative as well as quantitativefactors should be considered in reaching
+long term investment decisionsyou

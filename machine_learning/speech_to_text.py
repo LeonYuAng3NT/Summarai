@@ -1,5 +1,6 @@
 from youtube_transcript_api import YouTubeTranscriptApi
 from google.cloud import language_v1
+from './video2keyframe.py' import keyframes_time
 import argparse
 import io
 import json
@@ -13,10 +14,7 @@ key_terminology_list = []
 def get_text_from_video(video_id):
     
     result = YouTubeTranscriptApi.get_transcript(video_id,languages=['de','en'])
-     
-    # Remove Ads
-    for i in range(0,5):
-        result.remove(result[i])
+   
     return result
 
 
@@ -117,7 +115,16 @@ def analyze_entity_sentiment(text_content):
     print(u"Language of the text: {}".format(response.language))
 
 if __name__ == "__main__":
-    video_id = ""
+    video_id = "zgKaxnVMxfs"
 
     transcript_list = get_text_from_video(video_id)
+    file_path = ""
+    key_frame_list = keyframes_time(file_path, './back_end')
+    #[60, 316, 484, 702, 948, 1013, 1320, 1490, 1580, 2019, 2200, 2313, 2453]
+    result = divide_steps(transcript_list,key_frame_list)
+    counter = 0
+    for item in result:
+        print(counter)
+        print(item)
+        counter+=1
     
